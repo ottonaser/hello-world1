@@ -1,2 +1,7 @@
 # hello-world1
-just another repository 
+
+Hello,
+
+Otto Here!
+
+This is my open world repository for my capstone project class.
